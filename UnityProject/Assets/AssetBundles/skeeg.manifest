@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.17f1
+CRC: 1301421026
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: feafb1fe493bd3400f90e1fd1c5d9488
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 073edda7f822d73ad178dfd8736e9a67
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 63d01fbca8cb49e226036acb0df3f994
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Keeg.mat
+- Assets/Skeeg.prefab
+- Assets/keedge.fbx
+- Assets/eeg.png
+- Assets/keedge.jpeg
+- Assets/SkeegMusic.mp3
+- Assets/keegdge.mat
+- Assets/eeg.mat
+Dependencies: []
